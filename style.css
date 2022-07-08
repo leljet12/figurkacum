@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.yellow {
+    width: 1000px;
+    height: 500px;
+    background-color: yellow;
+    position: relative;
+}
+.red {
+    width: 500px;
+    height: 250px;
+
+    position: relative;
+
+    background-color: red;
+
+}
+.lime {
+    width: 250px;
+    height: 125px;
+    background-color: lime;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.brown {
+    width: 125px;
+    height: 62.5px;
+    background-color: brown;
+}
+.green {
+    width: 450px;
+    height: 250px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    background-color: green;
+}
+.purple {
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+    border-radius: 50%;
+    position: absolute;
+    left: 410px;
+    top: 175px;
+}
